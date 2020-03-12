@@ -11,4 +11,4 @@
 SHEMES - схемы печатлных плат, разработанные в программе SprintLayout
 STL - копия проекта, размещенного по адресу https://www.thingiverse.com/thing:3222598
 
-Описание проекта и вся необходимая информация расположена тут:
+Описание проекта и вся необходимая информация расположена тут: https://www.ionline.by/diy/samodelki/ulichnaya-meteostanciya-svoimi-rukami-12-03-2020/
